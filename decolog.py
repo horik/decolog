@@ -49,4 +49,4 @@ def decolog(name):
     json_str = json.dumps(data, ensure_ascii=False, indent=2)
     return json_str
 
-open('data.json', 'w').write(decolog('meeeetaaaan'))
+# open('data.json', 'w').write(decolog('erijchan'))
